@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1d2a,50:0f3d3e,100:16a34a&text=MenuuTUX&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=portfolio%20construction%20%C2%B7%20backtesting%20%C2%B7%20valuation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="MenuuTUX: portfolio construction, backtesting, valuation">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1d2a,50:0f3d3e,100:16a34a&text=MenuuTUX&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=portfolio%20construction%20%C2%B7%20backtesting%20%C2%B7%20valuation&descSize=18&descAlignY=58" width="100%" alt="MenuuTUX: portfolio construction, backtesting, valuation">
 
 <p align="center">
   I build tools for investing decisions: portfolio construction, backtesting, risk simulation and valuation.<br>
