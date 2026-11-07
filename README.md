@@ -39,11 +39,37 @@ A free planning tool for Canadians who have just opened a TFSA: check contributi
 
 <br>
 
-## Also built
-
-<sub>Graphics and native tooling from before the finance work.</sub>
+## More projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MenuuTUX/paper-city">paper-city</a></h3>
+      A Toronto housing field guide: an interactive map of real City planning and construction data. Built for Hack the Valley 11.<br><br>
+      <img src="https://img.shields.io/github/stars/MenuuTUX/paper-city?style=flat-square&color=16a34a" alt="Stars">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MenuuTUX/Calc-AI">Calc-AI</a></h3>
+      A small transformer trained from scratch to do arithmetic, with no calculation at inference and evaluation on held-out problems.<br><br>
+      <img src="https://img.shields.io/github/stars/MenuuTUX/Calc-AI?style=flat-square&color=16a34a" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MenuuTUX/tribe">tribe</a></h3>
+      Native macOS image analysis on Apple Silicon, with every module labelled by how far it can be trusted.<br><br>
+      <img src="https://img.shields.io/github/stars/MenuuTUX/tribe?style=flat-square&color=16a34a" alt="Stars">
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MenuuTUX/Oizys">Oizys</a></h3>
+      An open userspace driver for the DisplayLink Ridge dock on macOS, written in C.<br><br>
+      <img src="https://img.shields.io/github/stars/MenuuTUX/Oizys?style=flat-square&color=16a34a" alt="Stars">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MenuuTUX/maya-scene-io">maya-scene-io</a></h3>
@@ -53,23 +79,9 @@ A free planning tool for Canadians who have just opened a TFSA: check contributi
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MenuuTUX/LiToStudio">LiToStudio</a></h3>
-      Apple's Lito tech, used to make 3D objects on Mac.<br><br>
+      Apple's LiTo image-to-3D model running fully on-device on a Mac.<br><br>
       <img src="https://img.shields.io/github/stars/MenuuTUX/LiToStudio?style=flat-square&color=16a34a" alt="Stars">
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MenuuTUX/jojo-hftf-native">jojo-hftf-native</a></h3>
-      Native macOS port of JoJo's Bizarre Adventure: Heritage for the Future (PS1).<br><br>
-      <img src="https://img.shields.io/github/stars/MenuuTUX/jojo-hftf-native?style=flat-square&color=16a34a" alt="Stars">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MenuuTUX/Zlender">Zlender</a></h3>
-      ZBrush for Blender.<br><br>
-      <img src="https://img.shields.io/github/stars/MenuuTUX/Zlender?style=flat-square&color=16a34a" alt="Stars">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     </td>
   </tr>
 </table>
