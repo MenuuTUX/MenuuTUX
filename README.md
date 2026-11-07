@@ -1,18 +1,26 @@
-<h1 align=center>Hi there </h1>
+<h1 align=center>Hi, I'm Shib</h1>
 
-<p align="center">Trying My Best </p>
+<p align="center">Software developer in Toronto. TypeScript first, with native and graphics tooling on the side.</p>
 
-<h1 align="center"> Things about me: </h1>
+<h1 align="center"> Featured project </h1>
   <p align="center">
-     🧠 I’m currently working on automating Andorid games using TenserFlow. 🧠
+    <a href="https://github.com/MenuuTUX/Portfolio-Compass"><b>Portfolio Compass</b></a>:
+    a free TFSA planning tool. Check contribution room, compare stocks and ETFs, build a portfolio,
+    and backtest ideas in the browser with no login and no server database.
     <br>
-     👯 I’m looking to collaborate with other enthusiastic developers. 👯
+    <a href="https://portfolio-compass.vercel.app">Live demo</a>
+    · Next.js, TypeScript, Bun, 1,000+ unit tests
+  </p>
+
+<h1 align="center"> Other work </h1>
+  <p align="center">
+    🧊 <a href="https://github.com/MenuuTUX/maya-scene-io">maya-scene-io</a>: import and export Maya scenes (.ma / .mb) in Blender
     <br>
-     🔍 2022 Goals: Learn how to object detection works. 🔍
+    🍎 <a href="https://github.com/MenuuTUX/jojo-hftf-native">jojo-hftf-native</a>: native macOS port of a PS1 game
     <br>
-     🔭 Check out my automated Android recovery compiler. 🔭
+    🧱 <a href="https://github.com/MenuuTUX/LiToStudio">LiToStudio</a>: turning Apple's Lito 3D tech into objects on Mac
     <br>
-    🎹 Fun fact: I love learning songs on the piano. 🎹
+    🎹 Fun fact: I love learning songs on the piano.
   </p>
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
